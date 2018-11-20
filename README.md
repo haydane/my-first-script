@@ -1,1 +1,1 @@
-# my-first-script-
+# my-first-script
